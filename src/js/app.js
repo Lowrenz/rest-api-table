@@ -31,11 +31,12 @@ document.onreadystatechange = () => {
                 groupStartOpen: false,
                 rowFormatter: (row) => {
                     let data = row.getData();
-
-                    if(data.Rijdt == "Rijdt"){
+                    if(data.content.properties.Rijdt == "Rijdt"){
                         row.getElement().style.backgroundColor = "#d4edda";
-                    }else if(data.Rijdt == "Rijdt niet"){
+                    }else if(data.content.properties.Rijdt == "Rijdt niet"){
                         row.getElement().style.backgroundColor = "#f8d7da";
+                    }else if(data.content.properties.Rijdt != "Info volgt"){
+                        row.getElement().style.display = "none";
                     }
                 },
                 data: tableData,
@@ -120,7 +121,7 @@ document.onreadystatechange = () => {
                 "Content-Type": "application/json;odata=verbose"
             }
         }
-        // fetchData("https://lowrenz.github.io/data.json", requestOptions);
-        fetchData("dummy.json", requestOptions);
+        fetchData("https://lowrenz.github.io/data.json", requestOptions);
+        //fetchData("dummy.json", requestOptions);
     }
 }
