@@ -33,13 +33,9 @@ document.onreadystatechange = () => {
                     let data = row.getData();
 
                     if(data.Rijdt == "Rijdt"){
-                        row.getElement().css({
-                            "background-color": "#d4edda"
-                        });
+                        row.getElement().style.backgroundColor = "#d4edda";
                     }else if(data.Rijdt == "Rijdt niet"){
-                        row.getElement().css({
-                            "background-color": "#f8d7da"
-                        });
+                        row.getElement().style.backgroundColor = "#f8d7da";
                     }
                 },
                 data: tableData,
