@@ -55,7 +55,7 @@ document.onreadystatechange = () => {
                         dir: "asc"
                     }
                 ],
-                placeholder: "We zijn bezig met het verwerken van de data. Binnen een ogenblikje krijg je de status van de bussen te zien.",
+                placeholder: "Geen informatie beschikbaar. Verfijn je zoekopdracht of probeer het later eens opnieuw.",
                 tooltips: true,
                 tooltipGenerationMode: "hover",
                 columns: [{
