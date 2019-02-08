@@ -12,6 +12,7 @@
         ],
         "vendorJs": [
             "node_modules/@babel/polyfill/dist/polyfill.js",
+            "node_modules/whatwg-fetch/dist/fetch.umd.js",
             "node_modules/moment/moment.js",
             "node_modules/tabulator-tables/dist/js/tabulator.js"
         ],

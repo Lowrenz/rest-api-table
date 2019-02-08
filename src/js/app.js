@@ -67,7 +67,8 @@ document.onreadystatechange = () => {
                         sorter: "time",
                         minWidth: 120,
                         columnVertAlign: "middle",
-                        align: "center"
+                        align: "center",
+                        headerFilter:true
                     },
                     {
                         title: "Aankomst",
@@ -75,7 +76,8 @@ document.onreadystatechange = () => {
                         sorter: "time",
                         minWidth: 140,
                         columnVertAlign: "middle",
-                        align: "center"
+                        align: "center",
+                        headerFilter:true
                     },
                     {
                         title: "Beginhalte",
@@ -95,7 +97,7 @@ document.onreadystatechange = () => {
                         columnVertAlign: "middle",
                         variableHeight: true,
                         tooltip: true,
-                        headerFilter:true,
+                        headerFilter:true
                     },
                     {
                         title: "Status",
@@ -103,7 +105,8 @@ document.onreadystatechange = () => {
                         align: "center",
                         sorter: "string",
                         minWidth: 80,
-                        columnVertAlign: "middle"
+                        columnVertAlign: "middle",
+                        headerFilter:true
                     },
                 ],
             });
