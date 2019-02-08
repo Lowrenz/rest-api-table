@@ -66,7 +66,6 @@ document.onreadystatechange = () => {
                         dir: "asc"
                     }
                 ],
-                // paginationSize: 30,
                 placeholder: "We zijn bezig met het verwerken van de data. Binnen een ogenblikje krijg je de status van de bussen te zien.",
                 tooltips: true,
                 tooltipGenerationMode: "hover",
@@ -132,48 +131,7 @@ document.onreadystatechange = () => {
                 "Content-Type": "application/json;odata=verbose"
             }
         }
-
-        //fetchData("https://jsonplaceholder.typicode.com/todos", requestOptions);
         //fetchData("http://samenwerken/afd/ex01/_api/web/lists/getbytitle('StakingsComm')/items", requestOptions);
         fetchData("dummy.json", requestOptions);
     }
 }
-
-
-
-
-// columns: [{
-//     title: "User ID",
-//     field: "userId",
-//     sorter: "number",
-//     minWidth: 40,
-//     columnVertAlign: "middle",
-//     align: "center"
-// },
-// {
-//     title: "ID",
-//     field: "id",
-//     sorter: "number",
-//     minWidth: 40,
-//     columnVertAlign: "middle",
-//     align: "center"
-// },
-// {
-//     title: "Title",
-//     field: "title",
-//     sorter: "string",
-//     minWidth: 320,
-//     columnVertAlign: "middle",
-//     variableHeight:true,
-//     tooltip:true
-//     // headerFilter:true
-// },
-// {
-//     title: "Completed",
-//     field: "completed",
-//     align: "center",
-//     formatter: "tickCross",
-//     sorter: "boolean",
-//     minWidth: 40,
-//     columnVertAlign: "middle"
-// }
