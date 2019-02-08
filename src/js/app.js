@@ -120,6 +120,7 @@ document.onreadystatechange = () => {
                 "Content-Type": "application/json;odata=verbose"
             }
         }
-        fetchData("https://lowrenz.github.io/data.json", requestOptions);
+        // fetchData("https://lowrenz.github.io/data.json", requestOptions);
+        fetchData("dummy.json", requestOptions);
     }
 }

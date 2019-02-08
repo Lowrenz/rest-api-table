@@ -1,7 +1,7 @@
 #table-search{
     width: 100%;
     overflow-x:hidden;
-    // margin-bottom: 400px;
+    margin-bottom: 700px;
 }
 
 .filter{
@@ -9,9 +9,10 @@
     bottom: 0;
     left: 0;
     z-index: 2;
-    display: none;
-    margin:0;
-    padding: 28px;
+    display: block;
+    width: 100%;
+    margin:0px auto;
+    //padding: 28px;
     background-color: #fafafb;
 }
 
