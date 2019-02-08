@@ -1,7 +1,7 @@
 #table-search{
     width: 100%;
     overflow-x:hidden;
-    margin-bottom: 400px;
+    // margin-bottom: 400px;
 }
 
 .filter{
@@ -9,7 +9,10 @@
     bottom: 0;
     left: 0;
     z-index: 2;
-    width: 100%;
+    display: none;
+    margin:0;
+    padding: 28px;
+    background-color: #fafafb;
 }
 
 .tabulator-header, .tabulator-table, .tabulator-tableHolder, .tabulator-row{

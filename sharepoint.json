@@ -1,0 +1,2585 @@
+{
+    "d": {
+        "results": [{
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(2)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(2)",
+                "etag": "\"5\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(2)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(2)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(2)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(2)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(2)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(2)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(2)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(2)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(2)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(2)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 2,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "201 -02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+004",
+            "StartDienst": "5:06:00",
+            "EindeDienst": "0,54861111111",
+            "Loopnr": "113-1321",
+            "Ritnr": "1",
+            "RouteID": "5941",
+            "Route": "41",
+            "Provincie": "1",
+            "VertrekPlaats": "Knokke Station",
+            "RouteOmschrijving": "Knokke-Brugge",
+            "StartRit": "5:17:00",
+            "EindeRit": "6:00:00",
+            "AankomstPlaats": "Brugge Station",
+            "Rijdt": "Rijdt",
+            "ID": 2,
+            "Modified": "2019-02-07T16:12:08Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 4342,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "24347c9d-a455-49c7-8f48-2e52cb58a70a"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(3)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(3)",
+                "etag": "\"5\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(3)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(3)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(3)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(3)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(3)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(3)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(3)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(3)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(3)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lis ts(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(3)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 3,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+004",
+            "StartDienst": "5:06:00",
+            "EindeDienst": "0,54861111111",
+            "Loopnr": "113-1321",
+            "Ritnr": "2",
+            "RouteID": "5941",
+            "Route": "41",
+            "Provincie": "1",
+            "VertrekPlaats": "Brugge Station",
+            "RouteOmschrijving": "Knokke-Brugge",
+            "StartRit": "6:16:00",
+            "EindeRit": "6:59:00",
+            "AankomstPlaats": "Knokke Station",
+            "Rijdt": "Rijdt",
+            "ID": 3,
+            "Modified": "2019-02-08T08:35:57Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 80,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "f64ab217-61b5-4235-a7bd-00b8e318e2eb"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(4)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(4)",
+                "etag": "\"5\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(4)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(4)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(4)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(4)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(4)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(4)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(4)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(4)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(4)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists (guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(4)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 4,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+004",
+            "StartDienst": "5:06:00",
+            "EindeDienst": "0,54861111111",
+            "Loopnr": "113-1321",
+            "Ritnr": "1",
+            "RouteID": "5945",
+            "Route": "45",
+            "Provincie": "1",
+            "VertrekPlaats": "Knokke Station",
+            "RouteOmschrijving": "Knokke-Maldegem",
+            "StartRit": "7:04:00",
+            "EindeRit": "8:05:00",
+            "AankomstPlaats": "Maldegem Station",
+            "Rijdt": "Rijdt",
+            "ID": 4,
+            "Modified": "2019-02-08T08:35:57Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 80,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "8ecb1171-2c98-4b17-8a96-da7043a74c30"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(5)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(5)",
+                "etag": "\"5\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(5)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(5)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(5)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(5)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(5)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(5)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(5)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(5)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(5)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists (guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(5)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 5,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+004",
+            "StartDienst": "5:06:00",
+            "EindeDienst": "0,54861111111",
+            "Loopnr": "113-1321",
+            "Ritnr": "4",
+            "RouteID": "5945",
+            "Route": "45",
+            "Provincie": "1",
+            "VertrekPlaats": "Maldegem Station",
+            "RouteOmschrijving": "Knokke-Maldegem",
+            "StartRit": "8:22:00",
+            "EindeRit": "9:20:00",
+            "AankomstPlaats": "Knokke Station",
+            "Rijdt": "Rijdt",
+            "ID": 5,
+            "Modified": "2019-02-08T08:35:57Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 80,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "62a66469-207d-40e2-8c57-2ee17010ef53"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(6)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(6)",
+                "etag": "\"4\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(6)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(6)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(6)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(6)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(6)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(6)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(6)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(6)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(6)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists (guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(6)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 6,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+004",
+            "StartDienst": "5:06:00",
+            "EindeDienst": "0,54861111111",
+            "Loopnr": "113-1321",
+            "Ritnr": "19",
+            "RouteID": "5941",
+            "Route": "41",
+            "Provincie": "1",
+            "VertrekPlaats": "Knokke Station",
+            "RouteOmschrijving": "Knokke-Brugge",
+            "StartRit": "9:25:00",
+            "EindeRit": "10:10:00",
+            "AankomstPlaats": "Brugge Station",
+            "Rijdt": "Info volgt",
+            "ID": 6,
+            "Modified": "2019-02-07T14:43:29Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 4342,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "c3de49d5-5f4e-4d56-bcf9-6cf8765ab607"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(7)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(7)",
+                "etag": "\"4\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(7)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(7)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(7)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(7)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(7)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(7)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(7)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(7)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(7)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lis s(guid'5f76ca45-8 fe5-48b5-8794-ed6697b358ac')\/Items(7)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 7,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+004",
+            "StartDienst": "5:06:00",
+            "EindeDienst": "0,54861111111",
+            "Loopnr": "113-1321",
+            "Ritnr": "12",
+            "RouteID": "5941",
+            "Route": "41",
+            "Provincie": "1",
+            "VertrekPlaats": "Brugge Station",
+            "RouteOmschrijving": "Knokke-Brugge",
+            "StartRit": "10:19:00",
+            "EindeRit": "11:01:00",
+            "AankomstPlaats": "Knokke Station",
+            "Rijdt": "Info volgt",
+            "ID": 7,
+            "Modified": "2019-02-07T14:43:29Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 4342,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "befc82d0-dbc3-4b6b-9688-bd04bd52ebba"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(8)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(8)",
+                "etag": "\"4\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(8)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(8)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(8)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(8)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(8)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(8)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(8)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(8)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(8)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lis s(guid'5f76ca45-8 fe5-48b5-8794-ed6697b358ac')\/Items(8)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 8,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+004",
+            "StartDienst": "5:06:00",
+            "EindeDienst": "0,54861111111",
+            "Loopnr": "113-1321",
+            "Ritnr": "21",
+            "RouteID": "5941",
+            "Route": "41",
+            "Provincie": "1",
+            "VertrekPlaats": "Knokke Station",
+            "RouteOmschrijving": "Knokke-Brugge",
+            "StartRit": "11:25:00",
+            "EindeRit": "12:10:00",
+            "AankomstPlaats": "Brugge Station",
+            "Rijdt": "Info volgt",
+            "ID": 8,
+            "Modified": "2019-02-07T14:43:29Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 4342,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "54dffa30-6497-4e24-a237-12271f890f11"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(9)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(9)",
+                "etag": "\"4\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(9)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(9)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(9)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(9)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(9)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(9)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(9)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(9)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(9)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lis s(guid'5f76ca45-8 fe5-48b5-8794-ed6697b358ac')\/Items(9)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 9,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+004",
+            "StartDienst": "5:06:00",
+            "EindeDienst": "0,54861111111",
+            "Loopnr": "113-1321",
+            "Ritnr": "16",
+            "RouteID": "5941",
+            "Route": "41",
+            "Provincie": "1",
+            "VertrekPlaats": "Brugge Station",
+            "RouteOmschrijving": "Knokke-Brugge",
+            "StartRit": "12:19:00",
+            "EindeRit": "13:01:00",
+            "AankomstPlaats": "Knokke Station",
+            "Rijdt": "Info volgt",
+            "ID": 9,
+            "Modified": "2019-02-07T14:43:29Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 4342,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "47b2f4c5-2eec-42d2-97dc-aa3040e3865a"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(10)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(10)",
+                "etag": "\"4\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(10)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(10)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(10)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(10)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(10)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(10)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(10)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(10)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(10)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_ap \/Web\/Lists(guid '5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(10)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 10,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+008",
+            "StartDienst": "5:05:00",
+            "EindeDienst": "0,53402777778",
+            "Loopnr": "113-1333",
+            "Ritnr": "1",
+            "RouteID": "5944",
+            "Route": "44",
+            "Provincie": "1",
+            "VertrekPlaats": "Knokke Station",
+            "RouteOmschrijving": "Knokke-Westkapelle",
+            "StartRit": "6:50:00",
+            "EindeRit": "7:08:00",
+            "AankomstPlaats": "Westkapelle Rustoord",
+            "Rijdt": "Info volgt",
+            "ID": 10,
+            "Modified": "2019-02-07T14:43:29Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 4342,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "790ea640-e4e1-48ee-b731-60fa471238bf"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(11)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(11)",
+                "etag": "\"4\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(11)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(11)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(11)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(11)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(11)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(11)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(11)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(11)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(11)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_ pi\/Web\/Lists(gui d'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(11)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 11,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+008",
+            "StartDienst": "5:05:00",
+            "EindeDienst": "0,53402777778",
+            "Loopnr": "113-1333",
+            "Ritnr": "2",
+            "RouteID": "5944",
+            "Route": "44",
+            "Provincie": "1",
+            "VertrekPlaats": "Westkapelle Rustoord",
+            "RouteOmschrijving": "Knokke-Westkapelle",
+            "StartRit": "7:19:00",
+            "EindeRit": "7:36:00",
+            "AankomstPlaats": "Knokke Station",
+            "Rijdt": "Info volgt",
+            "ID": 11,
+            "Modified": "2019-02-07T14:43:29Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 4342,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "1045859f-8a17-4a43-a585-5799bc69eb26"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(12)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(12)",
+                "etag": "\"4\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(12)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(12)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(12)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(12)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(12)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(12)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(12)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(12)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(12)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_a i\/Web\/Lists(gui d'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(12)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 12,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+008",
+            "StartDienst": "5:05:00",
+            "EindeDienst": "0,53402777778",
+            "Loopnr": "113-1333",
+            "Ritnr": "3",
+            "RouteID": "5912",
+            "Route": "12",
+            "Provincie": "1",
+            "VertrekPlaats": "Knokke Station",
+            "RouteOmschrijving": "Knokke-Het Zoute-Oosthoek",
+            "StartRit": "7:40:00",
+            "EindeRit": "7:56:00",
+            "AankomstPlaats": "Knokke Oosthoekplein",
+            "Rijdt": "Info volgt",
+            "ID": 12,
+            "Modified": "2019-02-07T14:43:29Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 4342,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "e65f48f3-17a9-4a6a-8244-b5e8d082fcfb"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(13)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(13)",
+                "etag": "\"4\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(13)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(13)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(13)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(13)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(13)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(13)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(13)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(13)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(13)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex 1\/_api\/Web\/Lists(gui d'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(13)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 13,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+008",
+            "StartDienst": "5:05:00",
+            "EindeDienst": "0,53402777778",
+            "Loopnr": "113-1333",
+            "Ritnr": "4",
+            "RouteID": "5912",
+            "Route": "12",
+            "Provincie": "1",
+            "VertrekPlaats": "Knokke Oosthoekplein",
+            "RouteOmschrijving": "Knokke-Het Zoute-Oosthoek",
+            "StartRit": "8:20:00",
+            "EindeRit": "8:40:00",
+            "AankomstPlaats": "Knokke Station",
+            "Rijdt": "Info volgt",
+            "ID": 13,
+            "Modified": "2019-02-07T14:43:29Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 4342,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "2c42c24d-3477-47c0-8605-8682a5aa56f4"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(14)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(14)",
+                "etag": "\"4\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(14)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(14)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(14)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(14)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(14)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(14)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(14)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(14)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(14)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_a i\/Web\/Lists(gui d'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(14)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 14,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+008",
+            "StartDienst": "5:05:00",
+            "EindeDienst": "0,53402777778",
+            "Loopnr": "113-1333",
+            "Ritnr": "5",
+            "RouteID": "5912",
+            "Route": "12",
+            "Provincie": "1",
+            "VertrekPlaats": "Knokke Station",
+            "RouteOmschrijving": "Knokke-Het Zoute-Oosthoek",
+            "StartRit": "8:40:00",
+            "EindeRit": "8:57:00",
+            "AankomstPlaats": "Knokke Oosthoekplein",
+            "Rijdt": "Info volgt",
+            "ID": 14,
+            "Modified": "2019-02-07T14:43:29Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 4342,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "c9d53ef2-a2b3-43ea-9f53-222448a7ffba"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(15)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(15)",
+                "etag": "\"3\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(15)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(15)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(15)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(15)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(15)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(15)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(15)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(15)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(15)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex 1\/_api\/Web\/Lists(gui d'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(15)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 15,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+008",
+            "StartDienst": "5:05:00",
+            "EindeDienst": "0,53402777778",
+            "Loopnr": "113-1333",
+            "Ritnr": "6",
+            "RouteID": "5912",
+            "Route": "12",
+            "Provincie": "1",
+            "VertrekPlaats": "Knokke Oosthoekplein",
+            "RouteOmschrijving": "Knokke-Het Zoute-Oosthoek",
+            "StartRit": "9:20:00",
+            "EindeRit": "9:40:00",
+            "AankomstPlaats": "Knokke Station",
+            "Rijdt": "Rijdt",
+            "ID": 15,
+            "Modified": "2019-02-07T13:42:04Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 6,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "4d56b1d5-bb44-4302-86cd-042fc6c2dc3d"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(16)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(16)",
+                "etag": "\"3\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(16)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(16)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(16)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(16)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(16)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(16)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(16)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(16)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(16)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\ /Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(16)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 16,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+008",
+            "StartDienst": "5:05:00",
+            "EindeDienst": "0,53402777778",
+            "Loopnr": "113-1333",
+            "Ritnr": "7",
+            "RouteID": "5944",
+            "Route": "44",
+            "Provincie": "1",
+            "VertrekPlaats": "Knokke Station",
+            "RouteOmschrijving": "Knokke-Westkapelle",
+            "StartRit": "9:50:00",
+            "EindeRit": "10:08:00",
+            "AankomstPlaats": "Westkapelle Rustoord",
+            "Rijdt": "Rijdt",
+            "ID": 16,
+            "Modified": "2019-02-07T13:42:04Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 6,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "6d0e0ecc-9d3b-4286-875a-0eeeed903837"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(17)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(17)",
+                "etag": "\"3\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(17)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(17)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(17)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(17)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(17)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(17)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(17)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(17)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(17)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api \/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(17)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 17,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+008",
+            "StartDienst": "5:05:00",
+            "EindeDienst": "0,53402777778",
+            "Loopnr": "113-1333",
+            "Ritnr": "8",
+            "RouteID": "5944",
+            "Route": "44",
+            "Provincie": "1",
+            "VertrekPlaats": "Westkapelle Rustoord",
+            "RouteOmschrijving": "Knokke-Westkapelle",
+            "StartRit": "10:19:00",
+            "EindeRit": "10:36:00",
+            "AankomstPlaats": "Knokke Station",
+            "Rijdt": "Rijdt",
+            "ID": 17,
+            "Modified": "2019-02-07T13:42:04Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 6,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "b89cf9c7-ee7d-471b-b9db-70475c4e0c34"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(18)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(18)",
+                "etag": "\"3\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(18)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(18)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(18)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(18)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(18)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(18)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(18)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(18)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(18)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\ /Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(18)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 18,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+008",
+            "StartDienst": "5:05:00",
+            "EindeDienst": "0,53402777778",
+            "Loopnr": "113-1333",
+            "Ritnr": "17",
+            "RouteID": "5903",
+            "Route": "3",
+            "Provincie": "1",
+            "VertrekPlaats": "Knokke Station",
+            "RouteOmschrijving": "Knokke-Heist-Ramskapelle",
+            "StartRit": "10:40:00",
+            "EindeRit": "11:00:00",
+            "AankomstPlaats": "Ramskapelle Aaishove",
+            "Rijdt": "Rijdt",
+            "ID": 18,
+            "Modified": "2019-02-07T13:42:04Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 6,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "aa510b9e-f75d-4ded-a061-8d85ffad3967"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(19)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(19)",
+                "etag": "\"3\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(19)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(19)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(19)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(19)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(19)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(19)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(19)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(19)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(19)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api \/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(19)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 19,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+008",
+            "StartDienst": "5:05:00",
+            "EindeDienst": "0,53402777778",
+            "Loopnr": "113-1333",
+            "Ritnr": "22",
+            "RouteID": "5903",
+            "Route": "3",
+            "Provincie": "1",
+            "VertrekPlaats": "Ramskapelle Aaishove",
+            "RouteOmschrijving": "Knokke-Heist-Ramskapelle",
+            "StartRit": "11:00:00",
+            "EindeRit": "11:22:00",
+            "AankomstPlaats": "Knokke Station",
+            "Rijdt": "Rijdt",
+            "ID": 19,
+            "Modified": "2019-02-07T13:42:04Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 6,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "4102db82-a609-4bf7-aaf7-ac678d3e6655"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(20)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(20)",
+                "etag": "\"3\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(20)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(20)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(20)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(20)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(20)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(20)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(20)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(20)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(20)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\ /Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(20)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 20,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+008",
+            "StartDienst": "5:05:00",
+            "EindeDienst": "0,53402777778",
+            "Loopnr": "113-1333",
+            "Ritnr": "24",
+            "RouteID": "5903",
+            "Route": "3",
+            "Provincie": "1",
+            "VertrekPlaats": "Knokke Station",
+            "RouteOmschrijving": "Knokke-Heist-Ramskapelle",
+            "StartRit": "11:22:00",
+            "EindeRit": "11:28:00",
+            "AankomstPlaats": "Knokke Kliniek Ter Linden",
+            "Rijdt": "Rijdt",
+            "ID": 20,
+            "Modified": "2019-02-07T13:42:04Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 6,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "cc70e7ae-9777-4da7-8743-af50e0e65180"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(21)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(21)",
+                "etag": "\"3\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(21)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(21)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(21)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(21)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(21)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(21)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(21)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(21)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(21)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\ _api\/ Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(21)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 21,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+008",
+            "StartDienst": "5:05:00",
+            "EindeDienst": "0,53402777778",
+            "Loopnr": "113-1333",
+            "Ritnr": "23",
+            "RouteID": "5903",
+            "Route": "3",
+            "Provincie": "1",
+            "VertrekPlaats": "Knokke Kliniek Ter Linden",
+            "RouteOmschrijving": "Knokke-Heist-Ramskapelle",
+            "StartRit": "11:28:00",
+            "EindeRit": "11:34:00",
+            "AankomstPlaats": "Knokke Station",
+            "Rijdt": "Rijdt niet",
+            "ID": 21,
+            "Modified": "2019-02-07T13:42:10Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 6,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "9c778b37-6070-42a5-b8ab-bfb1de7a8edd"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(22)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(22)",
+                "etag": "\"3\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(22)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(22)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(22)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(22)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(22)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(22)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(22)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(22)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(22)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\ Web\/Lists(guid'5f 76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(22)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 22,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+008",
+            "StartDienst": "5:05:00",
+            "EindeDienst": "0,53402777778",
+            "Loopnr": "113-1333",
+            "Ritnr": "11",
+            "RouteID": "5912",
+            "Route": "12",
+            "Provincie": "1",
+            "VertrekPlaats": "Knokke Station",
+            "RouteOmschrijving": "Knokke-Het Zoute-Oosthoek",
+            "StartRit": "11:40:00",
+            "EindeRit": "11:57:00",
+            "AankomstPlaats": "Knokke Oosthoekplein",
+            "Rijdt": "Rijdt niet",
+            "ID": 22,
+            "Modified": "2019-02-07T13:42:10Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 6,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "4d17b0b0-a32f-47bf-9a43-359531d373c6"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(23)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(23)",
+                "etag": "\"3\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(23)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(23)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(23)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(23)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(23)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(23)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(23)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(23)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(23)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\ _api\/Web\/Lists(guid'5f 76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(23)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 23,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+008",
+            "StartDienst": "5:05:00",
+            "EindeDienst": "0,53402777778",
+            "Loopnr": "113-1333",
+            "Ritnr": "12",
+            "RouteID": "5912",
+            "Route": "12",
+            "Provincie": "1",
+            "VertrekPlaats": "Knokke Oosthoekplein",
+            "RouteOmschrijving": "Knokke-Het Zoute-Oosthoek",
+            "StartRit": "12:20:00",
+            "EindeRit": "12:40:00",
+            "AankomstPlaats": "Knokke Station",
+            "Rijdt": "Rijdt niet",
+            "ID": 23,
+            "Modified": "2019-02-07T13:42:10Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 6,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "7918bfab-3631-426e-8d2a-4774c23ba03d"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(24)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(24)",
+                "etag": "\"3\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(24)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(24)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(24)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(24)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(24)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(24)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(24)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(24)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(24)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\ Web\/Lists(guid'5f 76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(24)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 24,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+007",
+            "StartDienst": "5:50:00",
+            "EindeDienst": "0,57569444444",
+            "Loopnr": "113-1322",
+            "Ritnr": "3",
+            "RouteID": "5941",
+            "Route": "41",
+            "Provincie": "1",
+            "VertrekPlaats": "Knokke Station",
+            "RouteOmschrijving": "Knokke-Brugge",
+            "StartRit": "6:01:00",
+            "EindeRit": "6:42:00",
+            "AankomstPlaats": "Brugge Station",
+            "Rijdt": "Rijdt niet",
+            "ID": 24,
+            "Modified": "2019-02-07T13:42:10Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 6,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "f1760797-2839-4b69-b78f-fea736fc52ef"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(25)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(25)",
+                "etag": "\"3\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(25)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(25)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(25)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(25)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(25)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(25)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(25)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(25)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(25)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\ Web\/Lists(guid'5f 76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(25)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 25,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+007",
+            "StartDienst": "5:50:00",
+            "EindeDienst": "0,57569444444",
+            "Loopnr": "113-1322",
+            "Ritnr": "13",
+            "RouteID": "5941",
+            "Route": "41",
+            "Provincie": "1",
+            "VertrekPlaats": "Westkapelle Dorp",
+            "RouteOmschrijving": "Knokke-Brugge",
+            "StartRit": "7:33:00",
+            "EindeRit": "8:01:00",
+            "AankomstPlaats": "Brugge Station",
+            "Rijdt": "Rijdt niet",
+            "ID": 25,
+            "Modified": "2019-02-07T13:42:10Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 6,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "c9afec04-272a-4984-bf8a-f8c535461d5a"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(26)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(26)",
+                "etag": "\"3\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(26)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(26)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(26)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(26)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(26)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(26)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(26)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(26)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(26)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\ Web\/Lists(guid'5f 76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(26)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 26,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+007",
+            "StartDienst": "5:50:00",
+            "EindeDienst": "0,57569444444",
+            "Loopnr": "113-1331",
+            "Ritnr": "7",
+            "RouteID": "5912",
+            "Route": "12",
+            "Provincie": "1",
+            "VertrekPlaats": "Knokke Station",
+            "RouteOmschrijving": "Knokke-Het Zoute-Oosthoek",
+            "StartRit": "9:40:00",
+            "EindeRit": "9:57:00",
+            "AankomstPlaats": "Knokke Oosthoekplein",
+            "Rijdt": "Rijdt niet",
+            "ID": 26,
+            "Modified": "2019-02-07T13:42:10Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 6,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "8ab614d2-4018-4125-a218-b6352b85d613"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(27)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(27)",
+                "etag": "\"3\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(27)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(27)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(27)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(27)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(27)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(27)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(27)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(27)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(27)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\ _api\/Web\/Lists(guid'5f 76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(27)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 27,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+007",
+            "StartDienst": "5:50:00",
+            "EindeDienst": "0,57569444444",
+            "Loopnr": "113-1331",
+            "Ritnr": "8",
+            "RouteID": "5912",
+            "Route": "12",
+            "Provincie": "1",
+            "VertrekPlaats": "Knokke Oosthoekplein",
+            "RouteOmschrijving": "Knokke-Het Zoute-Oosthoek",
+            "StartRit": "10:20:00",
+            "EindeRit": "10:40:00",
+            "AankomstPlaats": "Knokke Station",
+            "Rijdt": "Rijdt niet",
+            "ID": 27,
+            "Modified": "2019-02-07T13:42:10Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 6,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "3242b1c4-b4a2-48e6-8deb-2211eec363e7"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(28)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(28)",
+                "etag": "\"3\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(28)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(28)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(28)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(28)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(28)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(28)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(28)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(28)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(28)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\ Web\/Lists(guid'5f 76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(28)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 28,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+007",
+            "StartDienst": "5:50:00",
+            "EindeDienst": "0,57569444444",
+            "Loopnr": "113-1331",
+            "Ritnr": "9",
+            "RouteID": "5944",
+            "Route": "44",
+            "Provincie": "1",
+            "VertrekPlaats": "Knokke Station",
+            "RouteOmschrijving": "Knokke-Westkapelle",
+            "StartRit": "10:50:00",
+            "EindeRit": "11:08:00",
+            "AankomstPlaats": "Westkapelle Rustoord",
+            "Rijdt": "Rijdt niet",
+            "ID": 28,
+            "Modified": "2019-02-07T13:42:10Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 6,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "3e2e6a23-ef17-4a81-8e27-a5ff72036087"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(29)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(29)",
+                "etag": "\"3\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(29)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(29)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(29)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(29)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(29)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(29)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(29)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(29)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(29)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api /Web\/Lists(guid'5f 76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(29)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 29,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+007",
+            "StartDienst": "5:50:00",
+            "EindeDienst": "0,57569444444",
+            "Loopnr": "113-1331",
+            "Ritnr": "10",
+            "RouteID": "5944",
+            "Route": "44",
+            "Provincie": "1",
+            "VertrekPlaats": "Westkapelle Rustoord",
+            "RouteOmschrijving": "Knokke-Westkapelle",
+            "StartRit": "11:19:00",
+            "EindeRit": "11:36:00",
+            "AankomstPlaats": "Knokke Station",
+            "Rijdt": "Rijdt niet",
+            "ID": 29,
+            "Modified": "2019-02-07T13:42:10Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 6,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "891eb339-80fd-4bf7-a321-3cee381b6817"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(30)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(30)",
+                "etag": "\"3\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(30)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(30)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(30)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(30)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(30)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(30)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(30)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(30)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(30)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\ Web\/Lists(guid'5f 76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(30)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 30,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+007",
+            "StartDienst": "5:50:00",
+            "EindeDienst": "0,57569444444",
+            "Loopnr": "113-1331",
+            "Ritnr": "21",
+            "RouteID": "5903",
+            "Route": "3",
+            "Provincie": "1",
+            "VertrekPlaats": "Knokke Station",
+            "RouteOmschrijving": "Knokke-Heist-Ramskapelle",
+            "StartRit": "11:40:00",
+            "EindeRit": "12:00:00",
+            "AankomstPlaats": "Ramskapelle Aaishove",
+            "Rijdt": "Rijdt niet",
+            "ID": 30,
+            "Modified": "2019-02-07T13:42:10Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 6,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "d73e9959-3fec-498e-9161-4bb8fbd77a26"
+        }, {
+            "__metadata": {
+                "id": "Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(31)",
+                "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(31)",
+                "etag": "\"3\"",
+                "type": "SP.Data.StakingsCommListItem"
+            },
+            "FirstUniqueAncestorSecurableObject": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(31)\/FirstUniqueAncestorSecurableObject"
+                }
+            },
+            "RoleAssignments": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(31)\/RoleAssignments"
+                }
+            },
+            "AttachmentFiles": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(31)\/AttachmentFiles"
+                }
+            },
+            "ContentType": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(31)\/ContentType"
+                }
+            },
+            "FieldValuesAsHtml": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(31)\/FieldValuesAsHtml"
+                }
+            },
+            "FieldValuesAsText": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(31)\/FieldValuesAsText"
+                }
+            },
+            "FieldValuesForEdit": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(31)\/FieldValuesForEdit"
+                }
+            },
+            "File": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(31)\/File"
+                }
+            },
+            "Folder": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api\/Web\/Lists(guid'5f76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(31)\/Folder"
+                }
+            },
+            "ParentList": {
+                "__deferred": {
+                    "uri": "http:\/\/samenwerken\/afd\/ex01\/_api /Web\/Lists(guid'5f 76ca45-8fe5-48b5-8794-ed6697b358ac')\/Items(31)\/ParentList"
+                }
+            },
+            "FileSystemObjectType": 0,
+            "Id": 31,
+            "ContentTypeId": "0x01005B9A077FC1A6EA43ACD36D48D2199A31",
+            "Title": null,
+            "Datum": "2019-02-12T23:00:00Z",
+            "Stelplaats": "KNO113",
+            "Operator": "Regie",
+            "Dienstnr": "B13+007",
+            "StartDienst": "5:50:00",
+            "EindeDienst": "0,57569444444",
+            "Loopnr": "113-1331",
+            "Ritnr": "26",
+            "RouteID": "5903",
+            "Route": "3",
+            "Provincie": "1",
+            "VertrekPlaats": "Ramskapelle Aaishove",
+            "RouteOmschrijving": "Knokke-Heist-Ramskapelle",
+            "StartRit": "12:00:00",
+            "EindeRit": "12:22:00",
+            "AankomstPlaats": "Knokke Station",
+            "Rijdt": "Rijdt niet",
+            "ID": 31,
+            "Modified": "2019-02-07T13:42:13Z",
+            "Created": "2019-02-06T13:57:14Z",
+            "AuthorId": 6,
+            "EditorId": 6,
+            "OData__UIVersionString": "1.0",
+            "Attachments": false,
+            "GUID": "1524fd4c-0db3-49b6-9552-34d6e46c6667"
+        }]
+    }
+}

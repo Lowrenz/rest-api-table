@@ -13,7 +13,7 @@ document.onreadystatechange = () => {
                 }
             ).then(
                 (tableData) => {
-                    initTable(tableData)
+                    initTable(tableData.entry)
                 }
             )
         }
@@ -27,66 +27,95 @@ document.onreadystatechange = () => {
                 virtualDom: true,
                 //locale:true,
                 responsiveLayout: "collapse",
-                responsiveLayoutCollapseUseFormatters:false,
+                responsiveLayoutCollapseUseFormatters: false,
+                groupStartOpen: false,
+                rowFormatter: (row) => {
+                    let data = row.getData();
+
+                    switch (data) {
+                        case data.Rijdt == "Info volgt":
+                            break;
+                        case data.Rijdt == "Rijdt":
+                            row.getElement().css({
+                                "background-color": "#d4edda"
+                            });
+                            break;
+                        case data.Rijdt == "Rijdt niet":
+                            row.getElement().css({
+                                "background-color": "#f8d7da"
+                            });
+                            break;
+                        default:
+                            break;
+                    }
+                },
                 data: tableData,
-                // ajaxURL: "https://jsonplaceholder.typicode.com/todos",
-                // ajaxProgressiveLoad: "scroll",
-                // groupBy: (tableData) => {
-                //     return data.lineNumber + " - " + tableData.name;
-                // },
-                groupBy: ["completed", "userId"],
-                groupToggleElement:"header",
-                // initialSort:[
-                //     {column:"age", dir:"asc"}, //sort by this first
-                //     {column:"height", dir:"desc"}, //then sort by this second
-                // ],
+                // groupBy: ["content.properties.Provincie", (tableData) => {
+                //     return `${tableData.content.properties.Route} - ${tableData.content.properties.RouteOmschrijving}`
+                // }],
+                groupBy: (tableData) => {
+                    return `${tableData.content.properties.Route} - ${tableData.content.properties.RouteOmschrijving}`
+                },
+                groupToggleElement: "header",
+                initialSort: [{
+                        column: "content.properties.StartRit",
+                        dir: "asc"
+                    },
+                    {
+                        column: "content.properties.VertrekPlaats",
+                        dir: "asc"
+                    }
+                ],
                 // paginationSize: 30,
                 placeholder: "We zijn bezig met het verwerken van de data. Binnen een ogenblikje krijg je de status van de bussen te zien.",
-                tooltips:true,
-                tooltipGenerationMode:"hover",
+                tooltips: true,
+                tooltipGenerationMode: "hover",
                 columns: [{
-                        title: "User ID",
-                        field: "userId",
-                        sorter: "number",
+                        title: "Vertrek",
+                        field: "content.properties.StartRit",
+                        sorter: "time",
                         minWidth: 40,
                         columnVertAlign: "middle",
                         align: "center"
                     },
                     {
-                        title: "ID",
-                        field: "id",
-                        sorter: "number",
+                        title: "Aankomst",
+                        field: "content.properties.EindeRit",
+                        sorter: "time",
                         minWidth: 40,
                         columnVertAlign: "middle",
                         align: "center"
                     },
                     {
-                        title: "Title",
-                        field: "title",
+                        title: "Beginhalte",
+                        field: "content.properties.VertrekPlaats",
                         sorter: "string",
                         minWidth: 320,
                         columnVertAlign: "middle",
-                        variableHeight:true,
-                        tooltip:true
+                        variableHeight: true,
+                        tooltip: true
                         // headerFilter:true
                     },
                     {
-                        title: "Completed",
-                        field: "completed",
+                        title: "Eindhalte",
+                        field: "content.properties.AankomstPlaats",
+                        sorter: "string",
+                        minWidth: 320,
+                        columnVertAlign: "middle",
+                        variableHeight: true,
+                        tooltip: true
+                        // headerFilter:true
+                    },
+                    {
+                        title: "Status",
+                        field: "content.properties.Rijdt",
                         align: "center",
-                        formatter: "tickCross",
-                        sorter: "boolean",
+                        sorter: "string",
                         minWidth: 40,
                         columnVertAlign: "middle"
                     },
                 ],
             });
-
-            // table.setFilter([
-            //     {field:"age", type:">", value:52}
-            //     {field:"height", type:"<", value:142}
-            //     {field:"name", type:"in", value:["steve", "bob", "jim"]}
-            // ]);
 
             window.addEventListener('resize', () => {
                 table.redraw();
@@ -105,7 +134,46 @@ document.onreadystatechange = () => {
         }
 
         //fetchData("https://jsonplaceholder.typicode.com/todos", requestOptions);
-        fetchData("http://samenwerken/afd/ex01/_api/web/lists/getbytitle('StakingsComm')/items", requestOptions);
-        //fetchData("https://drive.google.com/file/d/18cLm0V1RSEskQDIzICaS3o1eDj-vMo_D/view?usp=sharing", requestOptions);
+        //fetchData("http://samenwerken/afd/ex01/_api/web/lists/getbytitle('StakingsComm')/items", requestOptions);
+        fetchData("dummy.json", requestOptions);
     }
 }
+
+
+
+
+// columns: [{
+//     title: "User ID",
+//     field: "userId",
+//     sorter: "number",
+//     minWidth: 40,
+//     columnVertAlign: "middle",
+//     align: "center"
+// },
+// {
+//     title: "ID",
+//     field: "id",
+//     sorter: "number",
+//     minWidth: 40,
+//     columnVertAlign: "middle",
+//     align: "center"
+// },
+// {
+//     title: "Title",
+//     field: "title",
+//     sorter: "string",
+//     minWidth: 320,
+//     columnVertAlign: "middle",
+//     variableHeight:true,
+//     tooltip:true
+//     // headerFilter:true
+// },
+// {
+//     title: "Completed",
+//     field: "completed",
+//     align: "center",
+//     formatter: "tickCross",
+//     sorter: "boolean",
+//     minWidth: 40,
+//     columnVertAlign: "middle"
+// }
