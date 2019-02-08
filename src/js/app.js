@@ -35,8 +35,10 @@ document.onreadystatechange = () => {
                         row.getElement().style.backgroundColor = "#d4edda";
                     }else if(data.content.properties.Rijdt == "Rijdt niet"){
                         row.getElement().style.backgroundColor = "#f8d7da";
-                    }else if(data.content.properties.Rijdt != "Info volgt"){
-                        row.getElement().style.display = "none";
+                    }else if(data.content.properties.Rijdt == "Info volgt"){
+                        row.getElement().style.backgroundColor = "#FFFFFF";
+                    }else{
+                        row.getElement().style.backgroundColor = "#fff3cd";
                     }
                 },
                 data: tableData,
