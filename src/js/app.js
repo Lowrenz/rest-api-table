@@ -81,8 +81,8 @@ document.onreadystatechange = () => {
                         minWidth: 280,
                         columnVertAlign: "middle",
                         variableHeight: true,
-                        tooltip: true
-                        // headerFilter:true
+                        tooltip: true,
+                        headerFilter:true
                     },
                     {
                         title: "Eindhalte",
@@ -91,8 +91,8 @@ document.onreadystatechange = () => {
                         minWidth: 280,
                         columnVertAlign: "middle",
                         variableHeight: true,
-                        tooltip: true
-                        // headerFilter:true
+                        tooltip: true,
+                        headerFilter:true,
                     },
                     {
                         title: "Status",
