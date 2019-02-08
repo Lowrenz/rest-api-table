@@ -1,0 +1,86 @@
+#table-search{
+    width: 100%;
+    overflow-x:hidden;
+    margin-bottom: 400px;
+}
+
+.filter{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    width: 100%;
+}
+
+.tabulator-header, .tabulator-table, .tabulator-tableHolder, .tabulator-row{
+    overflow-x:hidden;
+}
+
+.tabulator-table, .tabulator-row, .tabulator-group, .tabulator-cell, .tabulator-col-title{
+    font-family: $font-family;
+    @include word-wrap();
+}
+
+.tabulator-group{
+    &.tabulator-row{
+        &.tabulator-group-level-0{
+            min-height: 52px;
+            padding-top:14px;
+        }
+
+        &.tabulator-group-level-1{
+            background: $white;
+            color: $dark;
+            border-top: 1px solid $yellow;
+            min-height: 48px;
+            padding-top:12px;
+        }
+    }
+}
+
+.tabulator-headers{
+    &, & > .tabulator-col{
+        min-height: 58px;
+        .tabulator-col-content{
+            min-height: 58px;
+        }
+    }
+}
+
+.tabulator{
+    .tabulator-header{
+        .tabulator-col{
+            padding-top: 20px;
+        }
+    }
+}
+
+.tabulator-row{
+    min-height: 36px;
+}
+
+.tabulator-cell{
+    color: $dark;
+}
+
+.tabulator-responsive-collapse{
+        width: 100%;
+
+    &, table, tbody{
+        max-width: 100%;
+        overflow-x: hidden;
+        height: auto;
+    }
+
+    tr{
+        height: auto;
+        overflow-x: hidden;
+
+        td{
+            height: auto;
+            //@include word-wrap();
+            white-space: initial;
+            vertical-align: top;
+        }
+    }
+}

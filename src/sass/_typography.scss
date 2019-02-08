@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+.title {
+    font-size: 3.5rem;
+    font-family: $font-family;
+    color: $dark;
+
+    @media only screen and (max-width: 630px) {
+        font-size: 2.8rem;
+    }
+
+    @media only screen and (max-width: 480px) {
+        font-size: 2rem;
+    }
+
+    @include word-wrap();
+}

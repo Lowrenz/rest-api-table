@@ -1,0 +1,60 @@
+.filter{
+    display: block;
+    margin:0;
+    padding: 28px;
+    background-color: #fafafb;
+}
+form{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    font-family: $font-family;
+
+    .group{
+        flex: 180px;
+        margin: 20px;
+
+        label{
+            font-weight: 700;
+            margin-bottom: 20px;
+            width: 100%;
+            color: $dark;
+        }
+
+        input{
+            width: 90%;
+            margin-top: 10px;
+            padding: 12px;
+            border-radius: 2px;
+            border: 1px solid rgba(153, 153, 153, 0.5);
+            box-shadow: none;
+
+            &:focus, &:active{
+                outline-color: $yellow;
+            }
+        }
+
+        button{
+            width: 100%;
+            background-color: $yellow;
+            border: 1px solid $yellow;
+            padding: 12px;
+            font-weight: 700;
+            color: $dark;
+            font-size: 16px;
+            min-height: 50px;
+            margin-top: 10px;
+
+            &:focus, &:active{
+                outline-color: $yellow;
+            }
+
+            &:hover{
+                opacity: .8;
+                cursor: pointer;
+            }
+        }
+    }
+}

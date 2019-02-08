@@ -1,0 +1,38 @@
+/*==========================================================================
+  Mixins
+  ==========================================================================*/
+
+@mixin rotate($angle) {
+    -webkit-transform: rotate($angle);
+    transform: rotate($angle);
+}
+
+@mixin word-wrap() {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -ms-word-break: break-all;
+    word-break: break-word;
+    -ms-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+}
+
+@mixin box-shadow() {
+    -webkit-box-shadow: 25px 4px 94px -6px $yellow;
+    -moz-box-shadow: 25px 4px 94px -6px $yellow;
+    -ms-box-shadow: 25px 4px 94px -6px $yellow;
+    box-shadow: 25px 4px 94px -6px $yellow;
+}
+
+@mixin text-shadow() {
+    -webkit-text-shadow: 3px 5px 9px rgba(0, 0, 0, 0.7);
+    -moz-text-shadow: 3px 5px 9px rgba(0, 0, 0, 0.7);
+    -ms-text-shadow: 3px 5px 9px rgba(0, 0, 0, 0.7);
+    text-shadow: 3px 5px 9px rgba(0, 0, 0, 0.7);
+}
+
+@mixin ellipsis() {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
