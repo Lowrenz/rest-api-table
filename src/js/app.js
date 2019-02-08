@@ -32,21 +32,16 @@ document.onreadystatechange = () => {
                 rowFormatter: (row) => {
                     let data = row.getData();
 
-                    switch (data) {
-                        case data.Rijdt == "Info volgt":
-                            break;
-                        case data.Rijdt == "Rijdt":
-                            row.getElement().css({
-                                "background-color": "#d4edda"
-                            });
-                            break;
-                        case data.Rijdt == "Rijdt niet":
-                            row.getElement().css({
-                                "background-color": "#f8d7da"
-                            });
-                            break;
-                        default:
-                            break;
+                    if(data.Rijdt == "Rijdt"){
+                        row.getElement().css({
+                            "background-color": "#d4edda"
+                        });
+                    }else if(data.Rijdt == "Rijdt niet"){
+                        row.getElement().css({
+                            "background-color": "#f8d7da"
+                        });
+                    }else if(data.Rijdt != "Info volgt"){
+                        row.getElement().css({"opacity": 0});
                     }
                 },
                 data: tableData,
@@ -73,7 +68,7 @@ document.onreadystatechange = () => {
                         title: "Vertrek",
                         field: "content.properties.StartRit",
                         sorter: "time",
-                        minWidth: 40,
+                        minWidth: 120,
                         columnVertAlign: "middle",
                         align: "center"
                     },
@@ -81,7 +76,7 @@ document.onreadystatechange = () => {
                         title: "Aankomst",
                         field: "content.properties.EindeRit",
                         sorter: "time",
-                        minWidth: 40,
+                        minWidth: 140,
                         columnVertAlign: "middle",
                         align: "center"
                     },
@@ -89,7 +84,7 @@ document.onreadystatechange = () => {
                         title: "Beginhalte",
                         field: "content.properties.VertrekPlaats",
                         sorter: "string",
-                        minWidth: 320,
+                        minWidth: 280,
                         columnVertAlign: "middle",
                         variableHeight: true,
                         tooltip: true
@@ -99,7 +94,7 @@ document.onreadystatechange = () => {
                         title: "Eindhalte",
                         field: "content.properties.AankomstPlaats",
                         sorter: "string",
-                        minWidth: 320,
+                        minWidth: 280,
                         columnVertAlign: "middle",
                         variableHeight: true,
                         tooltip: true
@@ -110,7 +105,7 @@ document.onreadystatechange = () => {
                         field: "content.properties.Rijdt",
                         align: "center",
                         sorter: "string",
-                        minWidth: 40,
+                        minWidth: 80,
                         columnVertAlign: "middle"
                     },
                 ],
