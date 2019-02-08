@@ -40,8 +40,6 @@ document.onreadystatechange = () => {
                         row.getElement().css({
                             "background-color": "#f8d7da"
                         });
-                    }else if(data.Rijdt != "Info volgt"){
-                        row.getElement().css({"opacity": 0});
                     }
                 },
                 data: tableData,
