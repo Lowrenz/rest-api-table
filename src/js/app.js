@@ -123,15 +123,14 @@ document.onreadystatechange = () => {
 
         let requestOptions = {
             method: "GET",
-            //mode: "cors",
-            mode: "no-cors",
+            mode: "cors",
+            //mode: "no-cors",
             cache: "no-cache",
             credentials: "include",
             headers: {
                 "Content-Type": "application/json;odata=verbose"
             }
         }
-        //fetchData("http://samenwerken/afd/ex01/_api/web/lists/getbytitle('StakingsComm')/items", requestOptions);
-        fetchData("dummy.json", requestOptions);
+        fetchData("https://lowrenz.github.io/data.json", requestOptions);
     }
 }
