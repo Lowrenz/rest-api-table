@@ -42,12 +42,34 @@ document.onreadystatechange = () => {
                     }
                 },
                 data: tableData,
-                // groupBy: ["content.properties.Provincie", (tableData) => {
-                //     return `${tableData.content.properties.Route} - ${tableData.content.properties.RouteOmschrijving}`
-                // }],
-                groupBy: (tableData) => {
+                groupBy: [(tableData) => {
+                    switch (tableData.content.properties.Provincie) {
+                        case "1":
+                            return "Antwerpen";
+                            break;
+                        case "2":
+                            return "Oost-Vlaanderen";
+                            break;
+                        case "3":
+                            return "Vlaams-Brabant";
+                            break;
+                        case "4":
+                            return "Limburg";
+                            break;
+                        case "5":
+                            return "West-Vlaanderen";
+                            break;        
+                        default:
+                            return "Andere";
+                            break;
+                    }
+                }, (tableData) => {
                     return `${tableData.content.properties.Route} - ${tableData.content.properties.RouteOmschrijving}`
-                },
+                }],
+                // "content.properties.Provincie"
+                // groupBy: (tableData) => {
+                //     return `${tableData.content.properties.Route} - ${tableData.content.properties.RouteOmschrijving}`
+                // },
                 groupToggleElement: "header",
                 initialSort: [{
                         column: "content.properties.StartRit",
