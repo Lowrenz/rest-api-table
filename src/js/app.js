@@ -126,6 +126,10 @@ document.onreadystatechange = () => {
                 "Content-Type": "application/json;odata=verbose"
             }
         }
+
+        // URL
+        // http://samenwerken/afd/ex01/_api/web/lists/getbytitle('StakingsComm')/items
+
         fetchData("https://lowrenz.github.io/data.json", requestOptions);
         //fetchData("dummy.json", requestOptions);
     }
