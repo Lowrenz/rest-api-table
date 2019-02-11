@@ -154,5 +154,6 @@ document.onreadystatechange = () => {
 
         fetchData("https://lowrenz.github.io/data.json", requestOptions);
         //fetchData("dummy.json", requestOptions);
+        //fetchData("sharepoint.json", requestOptions);
     }
 }
