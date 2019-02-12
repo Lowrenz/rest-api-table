@@ -17,8 +17,9 @@ form {
             color: $dark;
         }
 
-        input {
+        input, select {
             width: 90%;
+            min-width: 300px;
             margin-top: 10px;
             padding: 12px;
             border-radius: 2px;
@@ -29,6 +30,13 @@ form {
             &:active {
                 outline-color: $yellow;
             }
+        }
+
+        select{
+            height: 44px;
+            min-height: 44px;
+            width: 100%;
+            background-color: $white;
         }
 
         button {

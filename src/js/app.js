@@ -3,6 +3,17 @@
 
 document.onreadystatechange = () => {
     if (document.readyState == "interactive") {
+        const requestOptions = {
+            method: "GET",
+            mode: "cors",
+            //mode: "no-cors",
+            cache: "no-cache",
+            //credentials: "include",
+            headers: {
+                "Content-Type": "application/json;odata=verbose"
+            }
+        }
+
         const fetchData = (url, requestOptions) => {
             fetch(url, requestOptions).then(
                 (res) => {
@@ -13,13 +24,26 @@ document.onreadystatechange = () => {
                 }
             ).then(
                 (tableData) => {
-                    initTable(tableData.entry)
+                    initTable(tableData)
                 }
             )
         }
 
+        const showData = () => {
+            let provincie = document.getElementById('provincie').value;
+            let lijn = document.getElementById("lijn").value;
+
+            // Send parameters to fetchData
+            if ((typeof provincie !== 'undefined' && provincie !== null) && (typeof lijn !== 'undefined' && lijn !== null && lijn.length > 0)) {
+                let url = `https://verstoringendelijn.firebaseio.com/${provincie - 1}/${provincie}.json`;
+                fetchData(url, requestOptions);
+            } else {
+                //form invalid, temp solution:
+                alert("Gelieve een provincie en lijn mee te geven.")
+            }
+        }
+
         const initTable = (tableData) => {
-            console.log(tableData)
             //Build Tabulator
             let table = new Tabulator("#table-search", {
                 height: "100%",
@@ -31,52 +55,48 @@ document.onreadystatechange = () => {
                 groupStartOpen: false,
                 rowFormatter: (row) => {
                     let data = row.getData();
-                    if(data.content.properties.Rijdt == "Rijdt"){
+                    if (data.Rijdt == "Rijdt") {
                         row.getElement().style.backgroundColor = "#d4edda";
-                    }else if(data.content.properties.Rijdt == "Rijdt niet"){
+                    } else if (data.Rijdt == "Rijdt niet") {
                         row.getElement().style.backgroundColor = "#f8d7da";
-                    }else if(data.content.properties.Rijdt == "Info volgt"){
+                    } else if (data.Rijdt == "Info volgt") {
                         row.getElement().style.backgroundColor = "#FFFFFF";
-                    }else{
+                    } else {
                         row.getElement().style.backgroundColor = "#fff3cd";
                     }
                 },
                 data: tableData,
-                groupBy: [(tableData) => {
-                    switch (tableData.content.properties.Provincie) {
-                        case "1":
-                            return "Antwerpen";
-                            break;
-                        case "2":
-                            return "Oost-Vlaanderen";
-                            break;
-                        case "3":
-                            return "Vlaams-Brabant";
-                            break;
-                        case "4":
-                            return "Limburg";
-                            break;
-                        case "5":
-                            return "West-Vlaanderen";
-                            break;        
-                        default:
-                            return "Andere";
-                            break;
-                    }
-                }, (tableData) => {
-                    return `${tableData.content.properties.Route} - ${tableData.content.properties.RouteOmschrijving}`
-                }],
-                // "content.properties.Provincie"
-                // groupBy: (tableData) => {
-                //     return `${tableData.content.properties.Route} - ${tableData.content.properties.RouteOmschrijving}`
-                // },
+                // groupBy: [(tableData) => {
+                //     switch (tableData.Provincie) {
+                //         case "1":
+                //             return "Antwerpen";
+                //             break;
+                //         case "2":
+                //             return "Oost-Vlaanderen";
+                //             break;
+                //         case "3":
+                //             return "Vlaams-Brabant";
+                //             break;
+                //         case "4":
+                //             return "Limburg";
+                //             break;
+                //         case "5":
+                //             return "West-Vlaanderen";
+                //             break;        
+                //         default:
+                //             return "Andere";
+                //             break;
+                //     }
+                // }, (tableData) => {
+                //     return `${tableData.Route} - ${tableData.RouteOmschrijving}`
+                // }],
                 groupToggleElement: "header",
                 initialSort: [{
-                        column: "content.properties.StartRit",
+                        column: "StartR",
                         dir: "asc"
                     },
                     {
-                        column: "content.properties.VertrekPlaats",
+                        column: "VertrekPlaats",
                         dir: "asc"
                     }
                 ],
@@ -85,50 +105,50 @@ document.onreadystatechange = () => {
                 tooltipGenerationMode: "hover",
                 columns: [{
                         title: "Vertrek",
-                        field: "content.properties.StartRit",
+                        field: "StartR",
                         sorter: "time",
                         minWidth: 120,
                         columnVertAlign: "middle",
                         align: "center",
-                        headerFilter:true
+                        //headerFilter:true
                     },
                     {
                         title: "Aankomst",
-                        field: "content.properties.EindeRit",
+                        field: "EindR",
                         sorter: "time",
                         minWidth: 140,
                         columnVertAlign: "middle",
                         align: "center",
-                        headerFilter:true
+                        //headerFilter:true
                     },
                     {
                         title: "Beginhalte",
-                        field: "content.properties.VertrekPlaats",
+                        field: "VertrekPlaats",
                         sorter: "string",
                         minWidth: 280,
                         columnVertAlign: "middle",
                         variableHeight: true,
                         tooltip: true,
-                        headerFilter:true
+                        //headerFilter:true
                     },
                     {
                         title: "Eindhalte",
-                        field: "content.properties.AankomstPlaats",
+                        field: "AankomstPlaats",
                         sorter: "string",
                         minWidth: 280,
                         columnVertAlign: "middle",
                         variableHeight: true,
                         tooltip: true,
-                        headerFilter:true
+                        //headerFilter:true
                     },
                     {
                         title: "Status",
-                        field: "content.properties.Rijdt",
+                        field: "Rijdt",
                         align: "center",
                         sorter: "string",
                         minWidth: 80,
                         columnVertAlign: "middle",
-                        headerFilter:true
+                        //headerFilter:true
                     },
                 ],
             });
@@ -138,22 +158,8 @@ document.onreadystatechange = () => {
             });
         }
 
-        let requestOptions = {
-            method: "GET",
-            mode: "cors",
-            //mode: "no-cors",
-            cache: "no-cache",
-            credentials: "include",
-            headers: {
-                "Content-Type": "application/json;odata=verbose"
-            }
-        }
-
-        // URL
-        // http://samenwerken/afd/ex01/_api/web/lists/getbytitle('StakingsComm')/items
-
-        fetchData("https://lowrenz.github.io/data.json", requestOptions);
-        //fetchData("dummy.json", requestOptions);
-        //fetchData("sharepoint.json", requestOptions);
+        document.getElementById("btn-filter").addEventListener('click', () => {
+            showData();
+        });
     }
 }

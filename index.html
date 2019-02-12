@@ -19,36 +19,29 @@
 
 <body>
   <div class="container">
+    <div id="table-search"></div>
     <div class="filter">
-      <form>
+      <form novalidate>
         <div class="group">
           <label for="lijn">Lijn</label>
-          <input id="lijn" name="lijn" placeholder="Zoeken op lijn" type="text">
-        </div>
-
-        <div class="group">
-          <label for="beginhalte">Beginhalte</label>
-          <input id="beginhalte" name="beginhalte" placeholder="Zoeken op beginhalte" type="text">
+          <input id="lijn" name="lijn" required placeholder="Zoeken op lijnnummer" type="number">
         </div>
         <div class="group">
-          <label for="beginhalte">Eindhalte</label>
-          <input id="eindhalte" name="eindhalte" placeholder="Zoeken op eindhalte" type="text">
-        </div>
-        <div class="group">
-          <label for="vertrek">Vertrek</label>
-          <input id="vertrek" name="vertrek" type="time">
-        </div>
-        <div class="group">
-          <label for="aankomst">Aankomst</label>
-          <input id="aankomst" name="aankomst" type="time">
+          <label for="provincie">Provincie</label>
+          <select name="provincie" required id="provincie">
+            <option value="1">Antwerpen</option>
+            <option value="2">Oost-Vlaanderen</option>
+            <option value="3">Vlaams-Brabant</option>
+            <option value="4">Limburg</option>
+            <option value="5">West-Vlaanderen</option>
+          </select>
         </div>
         <div class="group">
           <label>&nbsp;</label>
-          <button>Zoeken</button>
+          <button id="btn-filter" type="button">Zoeken</button>
         </div>
       </form>
     </div>
-    <div id="table-search"></div>
   </div>
 </body>
 <script src="dist/js/plugins.min.js"></script>
