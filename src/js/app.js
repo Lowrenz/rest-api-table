@@ -21,10 +21,21 @@ document.onreadystatechange = () => {
                 },
                 (err) => {
                     console.log(err)
+                    document.querySelector(".loader").classList = "loader hidden";
                 }
             ).then(
                 (tableData) => {
-                    initTable(tableData)
+                    if(tableData !== null){
+                        initTable(tableData)
+                    }else{
+                        alert("Gelieve een geldige lijn in te geven");
+                        document.querySelector(".loader").classList = "loader hidden";
+                    }   
+                },
+                (err) => {
+                    console.log(err)
+                    alert("Gelieve een geldige lijn in te geven");
+                    document.querySelector(".loader").classList = "loader hidden";
                 }
             )
         }
@@ -35,12 +46,12 @@ document.onreadystatechange = () => {
 
             // Send parameters to fetchData
             if ((typeof provincie !== 'undefined' && provincie !== null) && (typeof lijn !== 'undefined' && lijn !== null && lijn.length > 0)) {
-                let url = `https://verstoringendelijn.firebaseio.com/${provincie - 1}/${provincie}.json`;
+                let url = `https://verstoringendelijn.firebaseio.com/${provincie}/${lijn}.json`;
                 document.querySelector(".loader").classList = "loader visible";
                 fetchData(url, requestOptions);
             } else {
                 //form invalid, temp solution:
-                alert("Gelieve een provincie en lijn mee te geven.")
+                alert("Gelieve een provincie en lijnnummer mee te geven.")
             }
         }
 
@@ -67,30 +78,9 @@ document.onreadystatechange = () => {
                     }
                 },
                 data: tableData,
-                // groupBy: [(tableData) => {
-                //     switch (tableData.Provincie) {
-                //         case "1":
-                //             return "Antwerpen";
-                //             break;
-                //         case "2":
-                //             return "Oost-Vlaanderen";
-                //             break;
-                //         case "3":
-                //             return "Vlaams-Brabant";
-                //             break;
-                //         case "4":
-                //             return "Limburg";
-                //             break;
-                //         case "5":
-                //             return "West-Vlaanderen";
-                //             break;        
-                //         default:
-                //             return "Andere";
-                //             break;
-                //     }
-                // }, (tableData) => {
-                //     return `${tableData.Route} - ${tableData.RouteOmschrijving}`
-                // }],
+                groupBy: (tableData) => {
+                    return `${tableData.Route} - ${tableData.RouteOmschrijving}`
+                },
                 groupToggleElement: "header",
                 initialSort: [{
                         column: "StartR",
