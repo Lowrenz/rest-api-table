@@ -36,6 +36,7 @@ document.onreadystatechange = () => {
             // Send parameters to fetchData
             if ((typeof provincie !== 'undefined' && provincie !== null) && (typeof lijn !== 'undefined' && lijn !== null && lijn.length > 0)) {
                 let url = `https://verstoringendelijn.firebaseio.com/${provincie - 1}/${provincie}.json`;
+                document.querySelector(".loader").classList = "loader visible";
                 fetchData(url, requestOptions);
             } else {
                 //form invalid, temp solution:
@@ -156,6 +157,8 @@ document.onreadystatechange = () => {
             window.addEventListener('resize', () => {
                 table.redraw();
             });
+
+            document.querySelector(".loader").classList = "loader hidden";
         }
 
         document.getElementById("btn-filter").addEventListener('click', () => {

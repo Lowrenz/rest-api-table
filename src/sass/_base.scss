@@ -52,6 +52,14 @@
     position: fixed;
 }
 
+.hidden {
+    display: none;
+}
+
+.visible {
+    display: block;
+}
+
 body {
     overflow-x: hidden;
     letter-spacing: 1.2px;
@@ -88,13 +96,25 @@ address {
     @include text-shadow();
 }
 
-.container{
+.container {
     margin: 0;
     padding: 0;
-    width:100%;
+    width: 100%;
     height: 100%;
     position: fixed;
-    top:0;
+    top: 0;
     left: 0;
     overflow-x: hidden;
+}
+
+.loader {
+    width: 100%;
+    position: relative;
+
+    svg {
+        width: 20%;
+        position: absolute;
+        left: 40%;
+        top: 0;
+    }
 }
