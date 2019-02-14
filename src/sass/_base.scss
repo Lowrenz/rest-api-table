@@ -117,3 +117,24 @@ address {
         top: 0;
     }
 }
+
+.info-message{
+    position: fixed;
+    width: 70%;
+    display: block;
+    left: 15%;
+    top: 100px;
+
+    p{
+        font-size: 2.5rem;
+        line-height: 1.4;
+
+        &.small{
+            font-size: 1.8rem;
+        }
+    }
+
+    a{
+        color: $yellow;
+    }
+}
