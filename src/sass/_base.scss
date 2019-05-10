@@ -149,22 +149,22 @@ address {
 
 .result{
     .filter{
-        position: sticky;
+        position: fixed;
         left: 0;
         bottom: 0;
     }
 
     #table-search, #table-search[style]{
         @media only screen and (max-width: 560px){
-            height: calc(#{"100% - 342px"}) !important;
+            height: calc(#{"100% - 282px"}) !important;
         }
 
         @media only screen and (min-width: 560px) and (max-width: 705px){
-            height: calc(#{"100% - 230px"}) !important;
+            height: calc(#{"100% - 170px"}) !important;
         }
 
         @media only screen and (min-width: 705px){
-            height: calc(#{"100% - 118px"}) !important;
+            height: calc(#{"100% - 58px"}) !important;
         }
     }
 }
