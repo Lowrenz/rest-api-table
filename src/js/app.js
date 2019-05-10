@@ -26,6 +26,7 @@ document.onreadystatechange = () => {
             ).then(
                 (tableData) => {
                     if(tableData !== null){
+                        document.querySelector(".container").classList = "container result";
                         initTable(tableData)
                     }else{
                         alert("Gelieve een geldige lijn in te geven");
